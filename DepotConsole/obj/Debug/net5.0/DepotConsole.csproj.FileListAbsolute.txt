@@ -1,0 +1,16 @@
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/bin/Debug/net5.0/DepotConsole
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/bin/Debug/net5.0/DepotConsole.deps.json
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/bin/Debug/net5.0/DepotConsole.runtimeconfig.json
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/bin/Debug/net5.0/DepotConsole.runtimeconfig.dev.json
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/bin/Debug/net5.0/DepotConsole.dll
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/bin/Debug/net5.0/DepotConsole.pdb
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.csproj.AssemblyReference.cache
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.AssemblyInfoInputs.cache
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.AssemblyInfo.cs
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.csproj.CoreCompileInputs.cache
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.dll
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/refint/DepotConsole.dll
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.pdb
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/DepotConsole.genruntimeconfig.cache
+/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/Debug/net5.0/ref/DepotConsole.dll
