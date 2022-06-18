@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nxmebsJ+46cBbPugl5PPyE/pxYrjaRe4Zn7G0oCLcX1IOrW4++zNXkgdASAZl8GSE5aBIJJC75Y9fzqMe0tvpQ==",
+  "dgSpecHash": "ri64ONLY14G6ZZzZ3dsCx4RMRrnY48qvQKyUIA8qYkW5PDMN0uAqtgIgWjjbuHv3YhDTkfmzd8VGcLSzsPaRTw==",
   "success": true,
-  "projectFilePath": "/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/DepotConsole.csproj",
+  "projectFilePath": "/Users/valenciomuskiet/Documents/Project B/ProjectB-DepotConsole/DepotConsole/DepotConsole.csproj",
   "expectedPackageFiles": [
     "/Users/valenciomuskiet/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/valenciomuskiet/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

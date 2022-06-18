@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/DepotConsole.csproj": {}
+    "/Users/valenciomuskiet/Documents/Project B/ProjectB-DepotConsole/DepotConsole/DepotConsole.csproj": {}
   },
   "projects": {
-    "/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/DepotConsole.csproj": {
+    "/Users/valenciomuskiet/Documents/Project B/ProjectB-DepotConsole/DepotConsole/DepotConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/DepotConsole.csproj",
+        "projectUniqueName": "/Users/valenciomuskiet/Documents/Project B/ProjectB-DepotConsole/DepotConsole/DepotConsole.csproj",
         "projectName": "DepotConsole",
-        "projectPath": "/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/DepotConsole.csproj",
+        "projectPath": "/Users/valenciomuskiet/Documents/Project B/ProjectB-DepotConsole/DepotConsole/DepotConsole.csproj",
         "packagesPath": "/Users/valenciomuskiet/.nuget/packages/",
-        "outputPath": "/Users/valenciomuskiet/Documents/DepotConsole/DepotConsole/obj/",
+        "outputPath": "/Users/valenciomuskiet/Documents/Project B/ProjectB-DepotConsole/DepotConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/valenciomuskiet/.nuget/NuGet/NuGet.Config"
