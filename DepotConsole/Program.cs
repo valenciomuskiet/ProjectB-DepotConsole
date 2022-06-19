@@ -23,7 +23,6 @@ namespace DepotConsole
                 }
             }
         }
-
         private static int StartMenuDepot()
         {
             while (true)
@@ -95,10 +94,56 @@ namespace DepotConsole
 
             }
         }
-
+        
         static void LeegPagina()
         {
             Console.Clear();
+        }
+        
+        static int DelenDoor17(int code)
+        {
+            int answer = code % 17;
+
+            if (answer == 0)
+            {
+                return 0;
+            }
+            else
+                return answer;
+        }
+        
+        static string GetTijdvak(int tijdOptie)
+        {
+            string Tijdvak;
+
+            switch (tijdOptie)
+            {
+                case 1:
+                    Tijdvak = "11:00-11:20";
+                    break;
+                case 2:
+                    Tijdvak = "12:00-12:20";
+                    break;
+                case 3:
+                    Tijdvak = "13:00-13:20";
+                    break;
+                case 4:
+                    Tijdvak = "14:00-14:20";
+                    break;
+                case 5:
+                    Tijdvak = "15:00-15:20";
+                    break;
+                case 6:
+                    Tijdvak = "16:00-16:20";
+                    break;
+                case 7:
+                    Tijdvak = "17:00-17:20";
+                    break;
+                default:
+                    Tijdvak = "onjuiste keuze";
+                    break;
+            }
+            return Tijdvak;
         }
     }
 }
